@@ -5,3 +5,7 @@ multilingual = false
 src = "src"
 title = "信息管理"
 
+
+[output.html]
+additional-css = ["index.css"]
+
